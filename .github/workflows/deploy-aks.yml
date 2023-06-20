@@ -32,7 +32,7 @@ name: Build and deploy an app to AKS
 on:
 #   push:
 #     branches: ["main"]
-#   workflow_dispatch:
+  workflow_dispatch:
 
 # env:
 #   AZURE_CONTAINER_REGISTRY: "your-azure-container-registry"
